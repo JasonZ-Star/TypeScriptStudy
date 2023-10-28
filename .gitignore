@@ -1,0 +1,21 @@
+# Ignore build output
+dist/
+*.js
+JS/
+
+# Ignore TypeScript source maps
+*.map
+
+# Ignore TypeScript declaration files
+*.d.ts
+
+# Ignore Node.js modules
+node_modules/
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+lib/
+test/
